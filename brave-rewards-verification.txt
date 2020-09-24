@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: tenzangu.github.io
-Token: a5247598d1b73109bce2aea239a8c5d89e24fc5eaeafbb35aee3107d0dc68313
